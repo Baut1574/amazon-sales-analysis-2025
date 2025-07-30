@@ -21,9 +21,14 @@ Identificar insights relevantes en los datos de ventas para comprender mejor el 
 
 ## 📊 Ejemplo de gráfica
 
+- Cliente
+<img width="1170" height="450" alt="cliente" src="https://github.com/user-attachments/assets/a8ce3d42-2366-47a8-9d11-894d2556524d" />
+- Preddicciones
+<img width="1170" height="450" alt="prediccion" src="https://github.com/user-attachments/assets/5f5a7563-b402-46fc-9a93-150e132e03fc" />
 
 
 ## 📎 Datos
 
-(https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025)
+https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025
+
 
